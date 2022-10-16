@@ -1,0 +1,13 @@
+# fhdjskjh fhjsdkadhf fhdjskah uyhbcvuvhfabh bfhdjakbfs
+> init
+<<<
++ notwug.txt notwug.txt
+> add notwug.txt
+<<<
+> commit "added notwug fhdjksa ibviyureyvbu brfyeq fjnknjwerof bvrifweho vfuow"
+<<<
++ notwug.txt wug.txt
+# fhdjska friuebfv vbreiwblkhfdjsbv hjkfsad
+> checkout -- notwug.txt
+<<<
+= notwug.txt notwug.txt
